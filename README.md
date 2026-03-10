@@ -40,4 +40,4 @@ El dataset original (`TelecomX_Data.json`) contiene información de más de 7000
 ## ⚙️ Instrucciones de Instalación y Uso
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone 
+   git clone https://github.com/JordanValenzuela22/Challenge-Telecom-X.git
